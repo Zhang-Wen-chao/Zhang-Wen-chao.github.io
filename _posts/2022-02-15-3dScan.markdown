@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Stereo Reconstruction"
-# date:   2010-06-22 18:08:39 +00:00
 date: 2022-02-15
-# image: /images/3DScan.jpg
+
 categories: TUM_courses
 image: images/zhang_photo.jpg
 venue: "3D Scanning and Motion Capture"

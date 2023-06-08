@@ -3,7 +3,7 @@ layout: post
 title: "Unsupervised Multi-View Stereo with Neural Radiance Field"
 date: 2022-02-25
 categories: TUM_courses
-image: images/zhang_photo.jpg
+# image: images/zhang_photo.jpg
 venue: "3D Scanning and Spatial learning"
 # slide: /pdfs/Group2_SSCasMVSNeRF_Slide.pdf
 # report: /pdfs/Group2_SSCasMVSNeRF_FinalReport.pdf
