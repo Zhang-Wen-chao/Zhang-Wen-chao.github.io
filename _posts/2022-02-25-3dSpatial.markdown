@@ -5,8 +5,8 @@ date: 2022-02-25
 categories: TUM_courses
 image: images/zhang_photo.jpg
 venue: "3D Scanning and Spatial learning"
-slide: /pdfs/Group2_SSCasMVSNeRF_Slide.pdf
-report: /pdfs/Group2_SSCasMVSNeRF_FinalReport.pdf
+# slide: /pdfs/Group2_SSCasMVSNeRF_Slide.pdf
+# report: /pdfs/Group2_SSCasMVSNeRF_FinalReport.pdf
 #course: " Berkeley"
 #author: "Leo Keselman"
 #subtitle: "A low power, wireless sensor"

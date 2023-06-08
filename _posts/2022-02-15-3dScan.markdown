@@ -7,8 +7,8 @@ date: 2022-02-15
 categories: TUM_courses
 image: images/zhang_photo.jpg
 venue: "3D Scanning and Motion Capture"
-report: /pdfs/Group10_StereoReconstruction_FinalReport.pdf
-slide: /pdfs/Group10_StereoReconstruction_Slide.pdf
+# report: /pdfs/Group10_StereoReconstruction_FinalReport.pdf
+# slide: /pdfs/Group10_StereoReconstruction_Slide.pdf
 #course: " Berkeley"
 #author: "Leo Keselman"
 #subtitle: "A low power, wireless sensor"
